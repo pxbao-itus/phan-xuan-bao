@@ -5,9 +5,9 @@ My name is Phan Xuan Bao, welcome to my github profile. Some information belong 
 - 📦 About business analysis, I have some skills  like drawing BPMN model, getting requirements, business modeling, database modeling, executing database.
 - 🪟 About programming, some skills such as mobile programming using React Native, web programming using .NET, JAVA, and Javascript.
 - 🤙 For more information, you can contact by some channle below:
-| - 📞 Phone: 0388262676
-| - ✉️ Email: pxbao.itus@gmail.com
-| - 🙎‍♂️ Facebook: ![Phan Bao](https://facebook.com/pxbao.cake)
+     - 📞 Phone: 0388262676
+     - ✉️ Email: pxbao.itus@gmail.com
+     - 🙎‍♂️ Facebook: [Phan Bao](https://facebook.com/pxbao.cake)
 
 
 
